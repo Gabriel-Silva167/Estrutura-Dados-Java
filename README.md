@@ -8,6 +8,7 @@ Compreender o funcionamento das estruturas de dados, aprender a implementá-las 
 
 ## Conteúdos
 - Vetores (Arrays)
+
 Os conteúdos serão adicionados conforme o avanço no curso.
 
 ## Tecnologias
